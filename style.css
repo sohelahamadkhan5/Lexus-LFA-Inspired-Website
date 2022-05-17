@@ -1,0 +1,35 @@
+.nav{
+    cursor: grab;
+    font-size: 30px;
+    /* background-color: antiquewhite; */
+}
+
+.nav:hover{
+    background-color: rgb(235, 218, 195);
+    color: rgb(0, 0, 0);
+}
+
+#nav{
+    text-align: center ;
+}
+
+header{
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    text-align: center;
+}
+
+.a {
+    background-color: antiquewhite;
+    font-size: 30px;
+}
+#main_heading{
+    text-align: center;
+}
+#video{
+
+    text-align: center;
+}
+body{
+    background-image: "/porsch 911" ;
+}
